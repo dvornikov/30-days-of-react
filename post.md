@@ -1,22 +1,3 @@
----
-page_id: 30-days-of-react/day-11
-series: 30-days-of-react
-permalink: day-11
-day: 11
-title: Pure Components
-description: >-
-  React offers several different methods for creating components. Today we'll
-  talk about the final method of creating components, the function stateless
-  pure component.
-dayDir: '11'
-hero_image: /assets/images/series/30-days-of-react/headings/11.jpg
-imageUrl: /assets/images/series/30-days-of-react/headings/11.jpg
-introBannerUrl: /assets/images/series/30-days-of-react/headings/11_wide.jpg
-date: 'Wed Oct 14 2016 21:29:42 GMT-0700 (PDT)'
-imagesDir: /assets/images/series/30-days-of-react/day-11
-includeFile: ./../_params.yaml
----
-
 We've looked at a few different ways to build react components. One method we left out up through this point is the stateless component/functional method of building React components. 
 
 As we've seen up through this point, we've only worked through building components using the `React.Component` and `React.createClass()` methods. For more performance and simplicity, React _also_ allows us to create pure, stateless components using a normal JavaScript function.
