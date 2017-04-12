@@ -1,22 +1,3 @@
----
-page_id: 30-days-of-react/day-15
-series: 30-days-of-react
-permalink: day-15
-day: 15
-title: Introduction to Promises
-description: >-
-  Today, we're going to look at what we need to know to understand Promises from
-  a high-level, so we can build our our applications using this incredibly
-  useful concept.
-dayDir: '15'
-hero_image: /assets/images/series/30-days-of-react/headings/15.jpg
-imageUrl: /assets/images/series/30-days-of-react/headings/15.jpg
-introBannerUrl: /assets/images/series/30-days-of-react/headings/15_wide.jpg
-date: 'Wed Oct 18 2016 21:29:42 GMT-0700 (PDT)'
-imagesDir: /assets/images/series/30-days-of-react/day-15
-includeFile: ./../_params.yaml
----
-
 [Yesterday](/articles/30-days-of-react-day-14/) we installed the `fetch` library into our `create-react-app` project we started on [day 12](/articles/30-days-of-react-day-12/). Today we'll pick up from yesterday discussing the concept and the _art_ of [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise).
 
 ## What is a promise
