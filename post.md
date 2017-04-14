@@ -1,21 +1,3 @@
----
-page_id: 30-days-of-react/day-19
-series: 30-days-of-react
-permalink: day-19
-day: 19
-title: Data Management with Redux
-description: >-
-  With the knowledge of flux and Redux, let's integrate Redux in our application
-  and walk through connected applications.
-dayDir: '19'
-hero_image: /assets/images/series/30-days-of-react/headings/19.jpg
-imageUrl: /assets/images/series/30-days-of-react/headings/19.jpg
-introBannerUrl: /assets/images/series/30-days-of-react/headings/19_wide.jpg
-date: 'Wed Oct 22 2016 21:29:42 GMT-0700 (PDT)'
-imagesDir: /assets/images/series/30-days-of-react/day-19
-includeFile: ./../_params.yaml
----
-
 Yesterday, we discussed (in light detail) the reason for the Flux pattern, what it is, the different options we have available to us, as well as introduced [Redux](http://redux.js.org/).
 
 Today, we are going to get back to code and on to adding Redux in our app. The app we're building with it right now is bare-bones simple, which will just show us the last time the page fetched the current time. For simplicity for now, we won't call out to a remote server, just using the JavaScript `Date` object.
